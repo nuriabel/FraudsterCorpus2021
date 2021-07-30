@@ -2,7 +2,7 @@
  
 This is the data used for experiments in the paper: 
 
-Bel, Núria, Gabriel Bracons, and Sophia Anderberg. 2021. "Finding Evidence of Fraudster Companies in the CEO’s Letter to Shareholders with Sentiment Analysis" Information 12, no. 8: 307. https://doi.org/10.3390/info12080307
+Núria Bel, Gabriel Bracons, and Sophia Anderberg. 2021. "Finding Evidence of Fraudster Companies in the CEO’s Letter to Shareholders with Sentiment Analysis" Information 12, no. 8: 307. https://doi.org/10.3390/info12080307
 
 Please, cite the paper if you use the corpus.
 
