@@ -1,0 +1,2 @@
+for fileName in $(ls -1 output/source/testing/positive/*); do python3 montar-vectores.py lista-positivos-negativos-mayor10.txt $fileName non-deceptive ; cp vectorarff testing-positive-arff; done
+

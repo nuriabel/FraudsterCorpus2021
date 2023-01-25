@@ -1,0 +1,1 @@
+for fileName in $(ls -1 source/*/*/*); do tr -s '[A-ZÑ]' '[a-zñ]'i < $fileName | tr -sc '[a-záéíóúñü]' '\n' | sort | uniq -c | sort -n | awk '{print $2 "," $1}' > output/$fileName.csv ; done
